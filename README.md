@@ -41,7 +41,7 @@ To build the app for release:
 ```bash
 -flutter build apk  # For Android
 -flutter build ios  # For iOS
-
+```
 ### Usage
 -Upon launching the app, you can either log in or browse as a guest.
 -Use the search bar to find schools or teachers.
