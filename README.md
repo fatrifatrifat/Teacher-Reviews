@@ -38,9 +38,9 @@ flutter run
 ```
 
 To build the app for release:
-
-flutter build apk  # For Android
-flutter build ios  # For iOS
+```bash
+-flutter build apk  # For Android
+-flutter build ios  # For iOS
 
 ### Usage
 -Upon launching the app, you can either log in or browse as a guest.
