@@ -35,9 +35,10 @@ This Flutter application allows users to browse and review teachers from CEGEPs 
 To run the app, use the following command:
 ```bash
 flutter run
+```
 
 To build the app for release:
-```bash
+
 flutter build apk  # For Android
 flutter build ios  # For iOS
 
