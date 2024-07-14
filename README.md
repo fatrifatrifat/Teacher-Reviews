@@ -43,12 +43,12 @@ To build the app for release:
 -flutter build ios  # For iOS
 ```
 ### Usage
--Upon launching the app, you can either log in or browse as a guest.
--Use the search bar to find schools or teachers.
--Click on school markers on the map to view details.
--Leave reviews for teachers by selecting a teacher and rating them.
+- Upon launching the app, you can either log in or browse as a guest.
+- Use the search bar to find schools or teachers.
+- Click on school markers on the map to view details.
+- Leave reviews for teachers by selecting a teacher and rating them.
 
 ### Credits
--Flutter for the framework.
--Firebase for backend services.
--Google Maps API for the map functionality.
+- Flutter for the framework.
+- Firebase for backend services.
+- Google Maps API for the map functionality.
