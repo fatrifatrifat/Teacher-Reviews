@@ -1,4 +1,4 @@
-# Quebec School Review App
+# Teacher Reviews
 
 ## Project Description
 This Flutter application allows users to browse and review teachers from CEGEPs and universities in Quebec. Users can create an account or log in as a guest, search for schools, view teacher ratings, and leave reviews. Admins can manage requests for adding teachers and classes.
