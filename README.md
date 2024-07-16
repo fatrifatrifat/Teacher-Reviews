@@ -20,7 +20,7 @@ This Flutter application allows users to browse and review teachers from CEGEPs 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quebec-school-review-app.git
+   git clone https://github.com/fatrifatrifat/Teacher-Reviews.git
    cd quebec-school-review-app
 
 2. Install dependencies:
